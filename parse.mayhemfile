@@ -1,0 +1,5 @@
+project: rust-url
+target: parse
+
+cmds:
+  - cmd: /parse
